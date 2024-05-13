@@ -5,7 +5,7 @@ Features:
 
 *Command-line interface approach(Must be run in command line - GUI version coming soon)
 
-*Linux and WIndows compatible
+*Linux and Windows compatible
 
 *Provides SHA-256, SHA-512, and MD5 hashes in output
 
