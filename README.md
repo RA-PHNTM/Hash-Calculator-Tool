@@ -2,7 +2,8 @@
 Hash Calculator Tool  Python script desiigned to take file/file path from input and calculate its hash value, useful for quick non-repudiation checks and file hash lookup during analysis/investigations.
 
 Features:
-*Command-line interface approach(GUI version coming soon)
+
+*Command-line interface approach(Must be run in command line - GUI version coming soon)
 
 *Linux and WIndows compatible
 
